@@ -21,3 +21,6 @@ For any problem you have with the jailbreak, please, open an issue in this repos
 If you like the project, do not hesitate to give me a star, fork the project and send it to your friends.
 ### Will it be updated?
 Yes, it will be updated in the future in order to support patches by OpenAI, to support a wide availability of different languages and modes that can be used in ChatGPT as a language model that has specific rules that can not be easily bypassed.
+### Useful resources that I found
+* [Jailbreak Chat](https://www.jailbreakchat.com/)
+* [ChatGPT Jailbreak Prompts on GitHub Gists](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)
