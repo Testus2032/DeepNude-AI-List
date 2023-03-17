@@ -16,5 +16,8 @@ To use one of them, you need to:
 4. Paste the message in the chatbox
 5. Send the message
 6. Have fun with it
+
+For any problem you have with the jailbreak, please, open an issue in this repository.<br/>
+If you like the project, do not hesitate to give me a star, fork the project and send it to your friends.
 ### Will it be updated?
 Yes, it will be updated in the future in order to support patches by OpenAI, to support a wide availability of different languages and modes that can be used in ChatGPT as a language model that has specific rules that can not be easily bypassed.
