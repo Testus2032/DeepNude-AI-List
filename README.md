@@ -11,9 +11,9 @@ First of all, there are three jailbreaks actually available:
 
 To use one of them, you need to: 
 1. Open the correspective TXT file in this GitHub repository
-2. Copy and paste the content of the jailbreak to use
-3. open a chat with ChatGPT
-4. Paste the message
+2. Copy the textual content of the jailbreak to use
+3. Open a chat with ChatGPT
+4. Paste the message in the chatbox
 5. Send the message
 6. Have fun with it
 ### Will it be updated?
