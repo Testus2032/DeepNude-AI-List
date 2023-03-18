@@ -8,6 +8,10 @@ First of all, there are three jailbreaks actually available:
 1. Jailbreak for English language
 2. Jailbreak for Italian language
 3. Jailbreak for Italian Neapolitan language
+4. Jailbreak for English UWU Mode
+5. Jailbreak for Italian UWU Mode
+6. Jailbreak for English TherapyBot
+7. Jailbreak for Italian TherapyBot
 
 To use one of them, you need to: 
 1. Open the correspective TXT file in this GitHub repository
