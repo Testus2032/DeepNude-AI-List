@@ -2,7 +2,7 @@
 
 # Best website
 
- <b>[DailyFakes.com (NSFW Face Swap 100% free to use, no sign-up, no download need- recommended)](https://dailyfakes.com/)</b>
+ <b>[DailyFakes.com (NSFW Face Swap 100% free to use, no sign-up, no download needed - recommended)](https://dailyfakes.com/)</b>
 
 ## Other websites
 * [PornGen.art](https://porngen.art)
