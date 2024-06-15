@@ -2,7 +2,7 @@
 
 # Best website
 
- <b>[Dreampaint.net - Nudify, Bukkake, Futanari, Tattoo and many more NSFW effects with AI (recommended)](https://www.dreampaint.net/?utm_source=github&utm_medium=paolinsta&utm_campaign=tools-list)</b>
+ <b>[DailyFakes.com (NSFW Face Swap 100% free to use, no sign-up, no download need- recommended)](https://dailyfakes.com/)</b>
 
 ## Other websites
 * [PornGen.art](https://porngen.art)
